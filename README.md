@@ -1,6 +1,8 @@
 # event-manager.js
 A small plugin to manage your events efficiently!
 
+CDN: *https://rawcdn.githack.com/Cryphean/event-manager/8951a492ebcb94e139da6f48711553b86c94b8d5/event-manager/event-manager.js*
+
 ----------
 
 **Quick guide**
